@@ -10,3 +10,5 @@
 <li>yarn dev (to run the app)</li>
 </ol>
 
+<h2>Project Screenshot</h2>
+![Screenshot (353)](https://user-images.githubusercontent.com/72254047/233765583-6683fdf9-9027-484a-b286-58065d8822a0.png)
